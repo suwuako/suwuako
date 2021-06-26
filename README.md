@@ -4,8 +4,8 @@ I do things (sometimes)
 ### Socials
 discord: l1tty#8385
 
-youtube: https://www.youtube.com/channel/UC1aqfdWmT1jqAs7cn7NhwMQ
+youtube: not active anymore
 
-twitch: twitch.tv/meguwumin_
+twitch: not active anymore
 
 ### thanks for coming by c:
