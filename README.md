@@ -6,3 +6,4 @@ I write code (sometimes)
 - [ ] assembler
 - [ ] building my own cpu
 - [ ] writing my own os
+- [ ] game in scratch from C
