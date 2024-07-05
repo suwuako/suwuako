@@ -6,4 +6,6 @@ I write code (sometimes)
 - [ ] assembler
 - [ ] building my own cpu
 - [ ] writing my own os
+  - helloworld os
 - [ ] game in scratch from C
+- [ ] my_alloc
