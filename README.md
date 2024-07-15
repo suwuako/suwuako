@@ -2,7 +2,7 @@
 I write code (sometimes)
 
 ## endgoals / cool projects
-- [x] spinning cube in terminal [wow!](https://github.com/suwuako/c_ube)
+- [x] [spinning cube in terminal!](https://github.com/suwuako/c_ube)
 - [ ] assembler
 - [ ] building my own cpu
 - [ ] writing my own os
