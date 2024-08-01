@@ -12,3 +12,4 @@ I write code (sometimes)
   - helloworld os
 - [ ] game in scratch from C
 - [ ] my_alloc
+- [ ] LFS
