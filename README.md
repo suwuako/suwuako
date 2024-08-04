@@ -2,7 +2,9 @@
 I write code (sometimes)
 
 ## endgoals / cool projects
-- [x] [spinning cube in terminal!](https://github.com/suwuako/c_ube)
+- [x] [bombhook - playing bombparty efficiently](https://github.com/suwuako/bombhook)
+- [x] [c_ube - spinning cube in terminal!](https://github.com/suwuako/c_ube)
+- [ ] [learn assembly](https://github.con/suwuako/learn-everything)
 - [ ] assembler
 - [ ] 3d audio visualiser
 - [ ] mathematical wallpaper engine
@@ -12,4 +14,4 @@ I write code (sometimes)
   - helloworld os
 - [ ] game in scratch from C
 - [ ] my_alloc
-- [ ] LFS
+- [ ] linux from scratch
