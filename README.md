@@ -4,7 +4,7 @@ I write code (sometimes)
 ## endgoals / cool projects
 - [x] [bombhook - playing bombparty efficiently](https://github.com/suwuako/bombhook)
 - [x] [c_ube - spinning cube in terminal!](https://github.com/suwuako/c_ube)
-- [ ] [learn assembly](https://github.con/suwuako/learn-everything)
+- [ ] [learn assembly](https://github.com/suwuako/learn-everything)
 - [ ] assembler
 - [ ] 3d audio visualiser
 - [ ] mathematical wallpaper engine
