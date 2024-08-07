@@ -11,7 +11,7 @@ I write code (sometimes)
 - [ ] guitar virtual amp + looper (lets you program your guitar to sound like sax or keyboard or whatever) 
 - [ ] building my own cpu
 - [ ] writing my own os
-  - helloworld os
+  - [helloworld os](https://github.com/suwuako/helloworld.os)
 - [ ] game in scratch from C
 - [ ] my_alloc
 - [ ] linux from scratch
