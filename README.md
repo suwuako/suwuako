@@ -2,6 +2,7 @@
 I write code (sometimes)
 
 ## endgoals / cool projects
+- [ ] [perfect rice/nvim](https://github.com/suwuako/configs)
 - [x] [bombhook - playing bombparty efficiently](https://github.com/suwuako/bombhook)
 - [x] [c_ube - spinning cube in terminal!](https://github.com/suwuako/c_ube)
 - [ ] [learn assembly](https://github.com/suwuako/learn-everything)
