@@ -7,9 +7,11 @@ I write code (sometimes)
 - [x] [c_ube - spinning cube in terminal!](https://github.com/suwuako/c_ube)
 - [ ] [learn assembly](https://github.com/suwuako/learn-everything)
 - [ ] assembler
+- [ ] compiler
+- [ ] programming lang
 - [ ] 3d audio visualiser
-- [ ] mathematical wallpaper engine
-- [ ] guitar virtual amp + looper (lets you program your guitar to sound like sax or keyboard or whatever) 
+- [ ] math graph wallpaper engine
+- [ ] guitar virtual amp + looper
 - [ ] building my own cpu
 - [ ] writing my own os
   - [helloworld os](https://github.com/suwuako/helloworld.os)
