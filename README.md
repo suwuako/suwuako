@@ -14,5 +14,5 @@ I write code (sometimes)
 - [ ] writing my own os
   - [helloworld os](https://github.com/suwuako/helloworld.os)
 - [ ] game in scratch from C
-- [ ] my_alloc
+- [ ] [my_alloc (writing my own malloc)](https://github.com/suwuako/my_alloc)
 - [ ] linux from scratch
