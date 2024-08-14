@@ -6,6 +6,7 @@ I write code (sometimes)
 - [x] [bombhook - playing bombparty efficiently](https://github.com/suwuako/bombhook)
 - [x] [c_ube - spinning cube in terminal!](https://github.com/suwuako/c_ube)
 - [ ] [learn assembly](https://github.com/suwuako/learn-everything)
+- [ ] wayland compositor
 - [ ] assembler
 - [ ] compiler
 - [ ] programming lang
