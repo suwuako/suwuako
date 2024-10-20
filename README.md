@@ -3,7 +3,7 @@ I write code (sometimes)
 
 ### current TODOS:
 - [ ] [fibonaccindent.nvim](https://github.com/suwuako/fibonaccindent.nvim)
-- [ ] [Penjamin](https://github.com/LeBron-James-Fan-Club/Penjamin)
+- [ ] [Penjamin (os project)](https://github.com/LeBron-James-Fan-Club/Penjamin)
 
 ## endgoals / cool projects
 - [ ] [perfect rice/nvim](https://github.com/suwuako/configs)
