@@ -20,3 +20,4 @@ I write code (sometimes)
 - [x] [my_alloc](https://github.com/suwuako/my_alloc)
 - [ ] linux from scratch
 - [ ] [self modifying programs](https://github.com/suwuako/quine)
+- [ ] cli pomodoro
