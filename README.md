@@ -15,7 +15,7 @@ I write code (sometimes)
 - [ ] guitar virtual amp + looper
 - [ ] building my own cpu
 - [ ] writing my own os
-    - [ ] [helloworld os](https://github.com/suwuako/helloworld.os)'
+    - [ ] [helloworld os](https://github.com/suwuako/helloworld.os)
     - [ ] [Penjamin](https://github.com/LeBron-James-Fan-Club/Penjamin)
 - [ ] game in scratch from C
 - [x] [my_alloc](https://github.com/suwuako/my_alloc)
