@@ -4,6 +4,7 @@ I write code (sometimes)
 ### current TODOS:
 - [ ] [fibonaccindent.nvim](https://github.com/suwuako/fibonaccindent.nvim)
 - [ ] [Penjamin (os project)](https://github.com/LeBron-James-Fan-Club/Penjamin)
+- [ ] [termato-timer (physics engine disguised as a productivity app)](https://github.com/suwuako/termato-timer)
 
 ## endgoals / cool projects
 - [ ] [perfect rice/nvim](https://github.com/suwuako/configs)
@@ -25,4 +26,4 @@ I write code (sometimes)
 - [x] [my_alloc](https://github.com/suwuako/my_alloc)
 - [ ] linux from scratch
 - [ ] [self modifying programs](https://github.com/suwuako/quine)
-- [ ] cli pomodoro
+- [ ] [termato-timer (physics engine disguised as a productivity app)](https://github.com/suwuako/termato-timer)
