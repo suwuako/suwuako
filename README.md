@@ -3,7 +3,7 @@ I write code (sometimes)
 
 ### current TODOS:
 - [ ] [fibonaccindent.nvim](https://github.com/suwuako/fibonaccindent.nvim)
-- [ ] [Penjamin (os project)](https://github.com/LeBron-James-Fan-Club/Penjamin)
+- [ ] [Kaolin: The nouveau operating system](https://github.com/nouveaus/kaolin)
 - [ ] [termato-timer (physics engine disguised as a productivity app)](https://github.com/suwuako/termato-timer)
 
 ## endgoals / cool projects
