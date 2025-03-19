@@ -19,6 +19,8 @@ I write code (sometimes)
 - [ ] math graph wallpaper engine
 - [ ] guitar virtual amp + looper
 - [ ] building my own cpu
+- [ ] C visualiser
+- [ ] reels based turing machine
 - [ ] Operating systems
     - [x] [helloworld os](https://github.com/suwuako/helloworld.os)
     - [ ] [Penjamin](https://github.com/LeBron-James-Fan-Club/Penjamin)
