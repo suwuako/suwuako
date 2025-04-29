@@ -25,6 +25,7 @@ I write code (sometimes)
     - [x] [helloworld os](https://github.com/suwuako/helloworld.os)
     - [ ] [Penjamin](https://github.com/LeBron-James-Fan-Club/Penjamin)
 - [ ] game in scratch from C
+- [ ] encrypt png pixel data
 - [x] [my_alloc](https://github.com/suwuako/my_alloc)
 - [ ] linux from scratch
 - [ ] [self modifying programs](https://github.com/suwuako/quine)
