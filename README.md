@@ -2,9 +2,7 @@
 I write code (sometimes)
 
 ### current TODOS:
-- [ ] [fibonaccindent.nvim](https://github.com/suwuako/fibonaccindent.nvim)
-- [ ] [Kaolin: The nouveau operating system](https://github.com/nouveaus/kaolin)
-- [ ] [termato-timer (physics engine disguised as a productivity app)](https://github.com/suwuako/termato-timer)
+
 
 ## endgoals / cool projects
 - [ ] [perfect rice/nvim](https://github.com/suwuako/configs)
@@ -29,4 +27,9 @@ I write code (sometimes)
 - [x] [my_alloc](https://github.com/suwuako/my_alloc)
 - [ ] linux from scratch
 - [ ] [self modifying programs](https://github.com/suwuako/quine)
+- [ ] [termato-timer (physics engine disguised as a productivity app)](https://github.com/suwuako/termato-timer)
+
+## project graveyard :(
+- [ ] [fibonaccindent.nvim](https://github.com/suwuako/fibonaccindent.nvim)
+- [ ] [Kaolin: The nouveau operating system](https://github.com/nouveaus/kaolin)
 - [ ] [termato-timer (physics engine disguised as a productivity app)](https://github.com/suwuako/termato-timer)
