@@ -1,8 +1,16 @@
 ### Hi there 👋
 I write code (sometimes)
 
-### current TODOS:
+### currently working on:
+compilers!
 
+### current TODOS:
+- stats/math
+- raytracer
+- os
+- compilers
+- turing machine
+- nvim plugin
 
 ## endgoals / cool projects
 - [ ] [perfect rice/nvim](https://github.com/suwuako/configs)
