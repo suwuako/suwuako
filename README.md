@@ -6,6 +6,7 @@ compilers!
 
 ### current TODOS:
 - stats/math
+- rust!
 - raytracer
 - os
 - compilers
