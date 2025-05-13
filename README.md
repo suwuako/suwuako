@@ -35,6 +35,7 @@ compilers!
 - [ ] encrypt png pixel data
 - [x] [my_alloc](https://github.com/suwuako/my_alloc)
 - [ ] linux from scratch
+- [ ] steam family games aggregator website? (idk webapp grr)
 - [ ] [self modifying programs](https://github.com/suwuako/quine)
 - [ ] [termato-timer (physics engine disguised as a productivity app)](https://github.com/suwuako/termato-timer)
 
