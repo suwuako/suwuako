@@ -1,6 +1,9 @@
 ### Hi there 👋
 I write code (sometimes)
 
+### Check out my blog:
+https://blog.suwuako.com
+
 ### currently working on:
 ~~compilers!~~ [LINKERS!!!](https://github.com/suwuako/prometheus)
 
@@ -14,7 +17,7 @@ I write code (sometimes)
 - nvim plugin
 
 ## endgoals / cool projects
-- [x] [some dotfiles(https://github.com/suwuako/configs)
+- [x] [some dotfiles](https://github.com/suwuako/configs)
 - [x] [bombhook - playing bombparty efficiently](https://github.com/suwuako/bombhook)
 - [x] [c_ube - spinning cube in terminal!](https://github.com/suwuako/c_ube)
 - [x] [learn assembly](https://github.com/suwuako/learn-everything)
